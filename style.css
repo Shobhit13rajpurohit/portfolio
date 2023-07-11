@@ -214,8 +214,8 @@ section .title::after{
 }
 .social-menu ul{
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 70%;
+    left: 24%;
     padding: 0;
     margin: 0;
     transform: translate(-50%, -50%);
